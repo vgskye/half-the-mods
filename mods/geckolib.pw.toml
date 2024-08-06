@@ -1,0 +1,13 @@
+name = "Geckolib"
+filename = "geckolib-neoforge-1.20.1-4.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/4ysPVX1z/geckolib-neoforge-1.20.1-4.4.7.jar"
+hash-format = "sha512"
+hash = "9b8bfd58b7324d2b340e8a1002c3290840a74a18cba7753bb12e1d30885f0ecf44ba9ba437c2a2036edb5b75238de6e2e90de7bda300658ad2b6f4b4366f14a5"
+
+[update]
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "4ysPVX1z"

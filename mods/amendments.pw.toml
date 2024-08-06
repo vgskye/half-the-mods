@@ -1,0 +1,13 @@
+name = "Amendments"
+filename = "amendments-1.20-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/rygiK2go/amendments-1.20-1.2.8.jar"
+hash-format = "sha512"
+hash = "0545278cfce290aaae47c01b7268c211f14c719c52bd34fe45cbe5e0533efd95aa02c3a8ef0430a0b11bd058a48c105b358cb832daf7dccc96b7b52b2f072594"
+
+[update]
+[update.modrinth]
+mod-id = "6iTJugQR"
+version = "rygiK2go"

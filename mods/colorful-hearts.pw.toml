@@ -1,0 +1,13 @@
+name = "Colorful Hearts"
+filename = "colorfulhearts-forge-1.20.1-4.3.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQfMUdZT/versions/ApSDOOeG/colorfulhearts-forge-1.20.1-4.3.13.jar"
+hash-format = "sha512"
+hash = "505989050eb4b767b58959eceabe0cdae3b96bbd970f8ea9ac0131b38dcc32e9d7fb62e44ccffbbe65a490911ff8d7390e25e20468a1d1e022cd2892cee08361"
+
+[update]
+[update.modrinth]
+mod-id = "wQfMUdZT"
+version = "ApSDOOeG"

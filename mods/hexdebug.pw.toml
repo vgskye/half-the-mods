@@ -1,0 +1,13 @@
+name = "HexDebug"
+filename = "hexdebug-forge-0.2.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2pscGC5/versions/SzV2YrQ9/hexdebug-forge-0.2.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "58461f8c5c2620597bca2c6f3a6fd9ca1ae994f53e5f5724b3ba6dbf451dca4764636355cacc2adc993f87e1d397bb5800608eb3cfd887a29f0b4497b041938d"
+
+[update]
+[update.modrinth]
+mod-id = "A2pscGC5"
+version = "SzV2YrQ9"

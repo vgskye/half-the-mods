@@ -1,0 +1,13 @@
+name = "Hyperbox"
+filename = "hyperbox-1.20.1-4.0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRfPwYyB/versions/e7dgjR7D/hyperbox-1.20.1-4.0.2.0.jar"
+hash-format = "sha512"
+hash = "8e449f6616aa2125e1552c178033216a0c86a6b6411a4f5680892948b35cdf64cb9f7ac0ea6e7ab19a5f8284aea96a9247ce082ad9fa81c843cfcb8ad26cc1c4"
+
+[update]
+[update.modrinth]
+mod-id = "bRfPwYyB"
+version = "e7dgjR7D"

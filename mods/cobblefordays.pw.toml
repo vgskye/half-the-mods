@@ -1,0 +1,13 @@
+name = "CobbleForDays"
+filename = "CobbleForDays-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi71AUZ0/versions/Ps3pCBgF/CobbleForDays-1.8.0.jar"
+hash-format = "sha512"
+hash = "5a99368db1da9da98ed1d980b80c39abf7aad890fecf1e0a578ff17ec26f0810f875a432690f14e08c22dfd2aadb4869e4c299b9434d3b58e70239cb367bbc7f"
+
+[update]
+[update.modrinth]
+mod-id = "hi71AUZ0"
+version = "Ps3pCBgF"

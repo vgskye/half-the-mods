@@ -1,0 +1,13 @@
+name = "Cyclops Core"
+filename = "CyclopsCore-1.20.1-1.19.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/elAdftA9/CyclopsCore-1.20.1-1.19.5.jar"
+hash-format = "sha512"
+hash = "9d10745a2f7d4c498c53d47b4ddfca7b20e05bd74050769336a2070ce8556bbd8b3ab0e4f516600e631e9ea5fbfcfc0a812672be9e8a9449e12c8d513f8aa340"
+
+[update]
+[update.modrinth]
+mod-id = "Z9DM0LJ4"
+version = "elAdftA9"

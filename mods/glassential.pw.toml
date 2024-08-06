@@ -1,0 +1,13 @@
+name = "Glassential (Forge)"
+filename = "glassential-forge-1.20.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVa5y52B/versions/4LXJsXDa/glassential-forge-1.20.1-1.2.5.jar"
+hash-format = "sha512"
+hash = "f4e08cc06fc5e8f975061f433120a89b7104f8f7139cd2b5f3b9685ca95bc8942aa1a6caa06afaf483a62bf1388fd22fb34e7259b458b8126fb78f6f67274106"
+
+[update]
+[update.modrinth]
+mod-id = "kVa5y52B"
+version = "4LXJsXDa"

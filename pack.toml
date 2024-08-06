@@ -1,0 +1,13 @@
+name = "Half the Mods"
+author = "Skye"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3165ce0162ccfa9b0d1df6f242e4381d387a65ac9902e4585a431f443b6301df"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

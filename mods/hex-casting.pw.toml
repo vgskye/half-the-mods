@@ -1,0 +1,7 @@
+name = "hex-casting"
+filename = "hexcasting-forge-1.20.1-0.11.1-7-pre-649.jar"
+
+[download]
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-forge-1.20.1/0.11.1-7-pre-649/hexcasting-forge-1.20.1-0.11.1-7-pre-649.jar"
+hash-format = "sha256"
+hash = "55066825004ee7833fc1ddf87b842861720574f0529dc3e081134d0d6a5dc5cf"

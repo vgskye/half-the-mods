@@ -1,0 +1,7 @@
+name = "paucal"
+filename = "paucal-forge-1.20.1-0.6.0-pre-118.jar"
+
+[download]
+url = "https://maven.blamejared.com/at/petra-k/paucal/paucal-forge-1.20.1/0.6.0-pre-118/paucal-forge-1.20.1-0.6.0-pre-118.jar"
+hash-format = "sha256"
+hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"

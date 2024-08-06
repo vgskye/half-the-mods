@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIF7nCgD/versions/QKXIpujo/platforms-forge-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "2f52488bfa3412dd15afd01657c0e3a9915404f61e14b42b2cf576601e250d8dacda7dc49781f134222c7632a9b85bf8e906c8da156afca7aa345868b0e2fd5a"
+
+[update]
+[update.modrinth]
+mod-id = "xIF7nCgD"
+version = "QKXIpujo"

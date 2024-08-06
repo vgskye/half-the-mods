@@ -1,0 +1,13 @@
+name = "Iron Furnaces"
+filename = "ironfurnaces-1.20.1-4.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPlaLxD1/versions/fGEswUMR/ironfurnaces-1.20.1-4.1.6.jar"
+hash-format = "sha512"
+hash = "1ccccbc2b81f6580424e63e910df53c68bd5ef1fa952a57536b73b88a45466e5105585e0db1e1fa9ad2e764da092341bad1deb474d781edcff83f54e3c432402"
+
+[update]
+[update.modrinth]
+mod-id = "yPlaLxD1"
+version = "fGEswUMR"
