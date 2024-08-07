@@ -500,11 +500,6 @@ hash = "3a08207e88e4e4b0e2b7e5856800855fa0802a355045689293cb559606d33d95"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib.pw.toml"
-hash = "89bc813cae671e81225bfae5c3ea102302a1d7bf947ad58efb0aeb684dc03759"
-metafile = true
-
-[[files]]
 file = "mods/mega.pw.toml"
 hash = "855f6e941abb12b3354fc7184779d572607bc37a027cfc3c25bf6b7297b01cfb"
 metafile = true
@@ -647,36 +642,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "6c318bc5defb0e4a1d49f4057b090dddc00c19745edb010911b4795b8f81c018"
-metafile = true
-
-[[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "42d61585967d5f2626af96b7c10192401f89b9420d4efe47bc5f4607c497f55b"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "8ab6a8b814d4dc333861fad7c955204fdde2d53dca4ca97428d2a22c8e78e98c"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.pw.toml"
-hash = "2ad78129377ded9cb55af29c6439b87848b962b9c7ed866b08786f53157b977d"
-metafile = true
-
-[[files]]
-file = "mods/rftools-power.pw.toml"
-hash = "20795bc52932ae5a00626e835af106ba5e938de547b4dd767439d0aa67dbf1b6"
-metafile = true
-
-[[files]]
-file = "mods/rftools-storage.pw.toml"
-hash = "b037be98c83e494fcb62b2a93943f1d4b532d2ed2ec1b86039c6180401208c40"
-metafile = true
-
-[[files]]
-file = "mods/rftools-utility.pw.toml"
-hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
 metafile = true
 
 [[files]]
